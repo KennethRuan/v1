@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/KennethRuan.github.io/static/css/main.7bc9e8b6.chunk.css",
+    "main.js": "/KennethRuan.github.io/static/js/main.ee310650.chunk.js",
+    "main.js.map": "/KennethRuan.github.io/static/js/main.ee310650.chunk.js.map",
+    "runtime-main.js": "/KennethRuan.github.io/static/js/runtime-main.1af20922.js",
+    "runtime-main.js.map": "/KennethRuan.github.io/static/js/runtime-main.1af20922.js.map",
+    "static/js/2.44f6f1a3.chunk.js": "/KennethRuan.github.io/static/js/2.44f6f1a3.chunk.js",
+    "static/js/2.44f6f1a3.chunk.js.map": "/KennethRuan.github.io/static/js/2.44f6f1a3.chunk.js.map",
+    "index.html": "/KennethRuan.github.io/index.html",
+    "static/css/main.7bc9e8b6.chunk.css.map": "/KennethRuan.github.io/static/css/main.7bc9e8b6.chunk.css.map",
+    "static/js/2.44f6f1a3.chunk.js.LICENSE.txt": "/KennethRuan.github.io/static/js/2.44f6f1a3.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/KennethRuan.github.io/static/media/bg-1.8e930a86.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1af20922.js",
+    "static/js/2.44f6f1a3.chunk.js",
+    "static/css/main.7bc9e8b6.chunk.css",
+    "static/js/main.ee310650.chunk.js"
+  ]
+}
